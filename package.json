@@ -1,0 +1,27 @@
+{
+  "name": "nodepractica",
+  "version": "1.0.0",
+  "description": "practicando en node js",
+  "main": "16-entrada.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node 16-entrada.js",
+    "dev": "nodemon 16-entrada.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafael30586/node-practica.git"
+  },
+  "author": "Rafael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rafael30586/node-practica/issues"
+  },
+  "homepage": "https://github.com/Rafael30586/node-practica#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
